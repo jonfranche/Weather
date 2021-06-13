@@ -133,56 +133,56 @@ input:checked + .slider:before {
 }
 
 .clear {
-    background-image: url('https://w.wallhaven.cc/full/47/wallhaven-475oge.jpg');
+    background-image: url('./wallhaven-475oge.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
 }   
 
 .clouds {
-    background-image: url('https://w.wallhaven.cc/full/ne/wallhaven-ne1ook.jpg');
+    background-image: url('./wallhaven-ne1ook.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
 }
 
 .rain {
-    background-image: url('https://w.wallhaven.cc/full/0p/wallhaven-0ppq33.jpg');
+    background-image: url('./wallhaven-0ppq33.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
 }
 
 .snow {
-    background-image: url('https://w.wallhaven.cc/full/nz/wallhaven-nzj28j.jpg');
+    background-image: url('./wallhaven-nzj28j.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
 }
 
 .thunder {
-    background-image: url('https://w.wallhaven.cc/full/49/wallhaven-49v3yx.jpg');
+    background-image: url('./wallhaven-49v3yx.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
 }
 
 .fog {
-    background-image: url('https://w.wallhaven.cc/full/4d/wallhaven-4dd36g.jpg');
+    background-image: url('./wallhaven-4dd36g.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
 }
 
 .mist {
-    background-image: url('https://w.wallhaven.cc/full/eo/wallhaven-eo872k.jpg');
+    background-image: url('./wallhaven-eo872k.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
 }
 
 .haze {
-    background-image: url('https://w.wallhaven.cc/full/nz/wallhaven-nzev1j.jpg');
+    background-image: url('./wallhaven-nzev1j.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;

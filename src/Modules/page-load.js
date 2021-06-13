@@ -39,7 +39,7 @@ const pageLoad = () => {
     const searchBar = document.createElement('input');
     headerElements.searchDiv.appendChild(searchBar);
     searchBar.setAttribute('type', 'text');
-    searchBar.setAttribute('value', 'Enter City, State, or ZIP');
+    searchBar.setAttribute('placeholder', 'Enter City, State, or ZIP');
 
     const submit = document.createElement('button');
     headerElements.searchDiv.appendChild(submit);
